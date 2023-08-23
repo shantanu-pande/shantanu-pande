@@ -1,6 +1,6 @@
 - 🌱 I’m currently learning **STM32 Microprocessors, RTOS**
 
-- 💬 Ask me about **Python, Automation**
+- 💬 Ask me about **Python, Robotics, Automation**
 
 - 📫 How to reach me **s.s.pande001@gmail.com**
 
