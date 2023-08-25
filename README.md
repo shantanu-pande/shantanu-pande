@@ -3,6 +3,7 @@
 - 💬 Ask me about **Python, Robotics, Automation**
 
 - 📫 How to reach me **s.s.pande001@gmail.com**
+- 🔗 <a href="https://www.linkedin.com/in/iam7t9/">LinkedIn</a>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
