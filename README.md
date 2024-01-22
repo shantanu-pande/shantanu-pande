@@ -1,4 +1,4 @@
-- 🌱 I’m currently learning **FPGA, STM32 Microprocessors, RTOS**
+- 🌱 I’m currently learning **STM32 Microprocessors, RTOS, Mbed OS**
 
 - 💬 Ask me about **Python, Robotics, Automation**
 
