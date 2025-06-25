@@ -1,4 +1,4 @@
-- 🌱 I’m currently learning **STM32 Microprocessors, RTOS, ESP-IDF**
+- 🌱 I’m currently learning **RISC-V, STM32, Power Electronics and RTOS**
 
 - 💬 Ask me about **Robotics, Electronics,  Automation**
 
