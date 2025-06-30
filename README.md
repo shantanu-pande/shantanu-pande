@@ -1,6 +1,6 @@
 - I’m currently working on **RISC-V, STM32, Power Electronics and RTOS**
 
-- What I do => **Robotics, Electronics,  Automation** <=
+- What I do => **Robotics, Electronics, Automation, Firmware** <=
 
 - 📫 Reach me at **s.s.pande001@gmail.com**
 
